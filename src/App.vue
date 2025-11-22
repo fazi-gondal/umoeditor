@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <Header />
     <main class="main-content">
       <EditorView />
     </main>
